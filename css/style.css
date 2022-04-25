@@ -1,0 +1,124 @@
+body {
+font-family: "Montserrat", sans-serif;
+/* padding: 8px; */
+margin: 0;
+color: #293651;
+font-size: 19px;
+
+
+
+}
+
+/* .topo{
+
+
+} */
+
+
+
+
+.greentext {
+
+    color: #00a78e;
+    font-weight: 400;
+    letter-spacing: 3px;
+    font-size: 24px;
+    
+    
+
+
+}
+
+.slogan {
+
+    font-weight: 400;
+    letter-spacing: 3px;
+    font-size: 24px;
+    line-height: 48px;
+
+}
+
+.enzo{
+    color: #293651;
+    font-weight: bold;
+    line-height: 34px;
+    
+    
+}
+
+.conteudo {
+
+    /* margin: 20px 500px; */
+    margin-left: 12%;
+    margin-right: 12%;
+    padding-top: 3%;
+    font-size: 18px;
+    
+
+    
+
+}
+
+.introduction {
+    color:rgb(135 127 127);
+    font-weight: 400;
+    font-size: 17.8px;
+    line-height: 23px;
+
+}
+
+.button {
+
+  background-color: #00a78e; /* Green */
+  border: none;
+  color: white;
+  padding: 13px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 5px;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 0.2%;
+}
+
+.button:hover, .button:active{
+
+  background-color: #00705f;
+
+}
+
+.imagem {
+
+ text-align: center;
+ padding-top: 2.2%;
+
+}
+
+.profile {
+
+    max-width:540px;
+    max-height:490px;
+    width: auto;
+    height: auto;
+
+
+}
+
+.experience {
+
+    margin-left: 12%;
+    margin-right: 12%;
+    padding-top: 0.2%;
+    font-family: "Montserrat", sans-serif;
+    
+
+}
+
+/*font-family: monospace;*/
+
+
+
+
+    
+     

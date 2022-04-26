@@ -151,6 +151,36 @@ hr.greenline {
 
 }
 
+.titleBar {
+
+    color: black;
+    font-weight: 600;
+    padding-top: 4%;
+    line-height: 10px;
+
+}
+
+.porcent1{
+
+    margin-left: 91%;
+    color: #85818e;
+    
+}
+
+#progressbar {
+    background-color: #eeeff2;
+    border-radius: 13px;
+    /* (height of inner div) / 2 + padding */
+    padding: 3px;
+  }
+  
+  #progressbar>div {
+    background-color: #00a78e;
+    width: 85%;
+    /* Adjust with JavaScript */
+    height: 10px;
+    border-radius: 10px;
+  }
 
   
 

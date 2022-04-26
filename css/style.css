@@ -12,8 +12,8 @@ font-size: 19px;
 
 .topo {
 
-    margin-left: 17%;
-    margin-right: 17%;
+    margin-left: 24%;
+    margin-right: 24%;
 
 } 
 
@@ -94,7 +94,7 @@ font-size: 19px;
 .imagem {
 
  text-align: center;
- padding-top: 2.2%;
+ padding-top: 0.5%;
 
 }
 
@@ -110,8 +110,8 @@ font-size: 19px;
 
 .experience {
 
-    margin-left: 12%;
-    margin-right: 12%;
+    margin-left: 32%;
+    margin-right: 25%;
     padding-top: 0.2%;
     font-family: "Montserrat", sans-serif;
     

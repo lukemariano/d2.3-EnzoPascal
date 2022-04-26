@@ -212,6 +212,13 @@ hr.greenline {
     border-radius: 10px;
   }
 
+  .section_projects{
+
+    background-color: #f9f9f9;
+
+
+  }
+
   .titleProjects{
 
         text-align: center;
@@ -223,10 +230,28 @@ hr.greenline {
 
     font-size: 42px;
     font-weight: 600;
+    line-height: 8px;
+    
 
   }
 
+  .center_greenline2{
+
+    
+    text-align: center;
+
+  }
+
+  .greenline2{
+
+    border-top: 3px solid #00a78e;
+    width: 10%;
+    
   
+
+  }
+
+
 
   
 

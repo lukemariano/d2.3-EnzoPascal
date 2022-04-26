@@ -114,6 +114,7 @@ font-size: 19px;
     margin-right: 27%;
     padding-top: 0.2%;
     font-family: "Montserrat", sans-serif;
+    line-height: 30px;
     
 
 }
@@ -123,10 +124,35 @@ font-size: 19px;
 
     color: #293651;
     font-weight: 600;
-    line-height: 42px;
+    line-height: 15px;
     font-size: 42px;
 
 }
+
+div.divider{
+
+        /* text-align: left; */
+
+        width: 150px;
+        margin-bottom: 5%;
+        margin-top: 5%;
+}
+
+hr.greenline {
+    border-top: 3px solid #00a78e;
+   
+    
+    
+  }
+
+.textBio {
+
+    text-align: justify;
+
+}
+
+
+  
 
 /*font-family: monospace;*/
 

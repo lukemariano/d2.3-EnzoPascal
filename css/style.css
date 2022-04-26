@@ -177,16 +177,28 @@ div.divider{
 
         /* text-align: left; */
 
-        width: 150px;
-        margin-bottom: 5%;
-        margin-top: 5%;
+        /* width: 150px; */
+        margin-bottom: 2%;
+        margin-top: 2%;
 }
 
 hr.greenline {
     border-top: 3px solid #00a78e;
-   
+   display: inline-block;
+   width: 100px;
     
     
+  }
+
+  hr.segunda {
+
+    width: 16px;
+
+  }
+
+  hr.terceira{
+
+    width: 8px;
   }
 
 .textBio {
@@ -211,11 +223,7 @@ hr.greenline {
     
 }
 
-/* .espaçamento{
 
-    padding-bottom: 0%;
-
-} */
 
 #progressbar {
     background-color: #eeeff2;
@@ -296,10 +304,59 @@ hr.greenline {
   }
 
 
+  .containerProject {
+
+    display: inline-block;           
+    line-height: 62px;    
+    width: 400px;
+    height: 380px;
+    border: 2.5px solid #fff;
+    border-radius: 1%;
+    margin-top: 80px;
+    margin-bottom: 1px;
+    margin-right: 1px;
+    font-size: 36px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 4px 4px 4px #d4d4d4;
+   
+
+  }
+
+.container1{
+
+  margin-left: 30%;
+  text-align: left;
+
+}
+
+.title_container1{
+
+  font-size: 25px;
+  font-weight: 600;
+  padding-left: 8%;
+  padding-top: 31%;
+
+}
+
+.text_container1{
+
+  font-size: 16px;
+  line-height: 30px;
+  padding-left: 8%;
+  padding-right: 8%;
+
+}
+
+.container2{
+
+  margin-left: 7%;
+
+
+}
 
   
 
-/*font-family: monospace;*/
+
 
 
 

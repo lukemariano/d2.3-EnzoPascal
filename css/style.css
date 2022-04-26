@@ -110,11 +110,21 @@ font-size: 19px;
 
 .experience {
 
-    margin-left: 32%;
-    margin-right: 25%;
+    margin-left: 33%;
+    margin-right: 27%;
     padding-top: 0.2%;
     font-family: "Montserrat", sans-serif;
     
+
+}
+
+.titleinicial {
+
+
+    color: #293651;
+    font-weight: 600;
+    line-height: 42px;
+    font-size: 42px;
 
 }
 

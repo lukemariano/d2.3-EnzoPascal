@@ -25,6 +25,7 @@ li {
   float: left;
 }
 
+
 li a {
   display: block;
   color: white;
@@ -39,7 +40,19 @@ li a:hover {
 
 .active {
   background-color: #00a78e;
+  
+  
 }
+
+
+.backgroundTopo {
+
+    background-image: url("../images/teste.png");
+    
+    
+}
+
+
 
 .topo {
 

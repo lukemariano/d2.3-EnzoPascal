@@ -167,6 +167,12 @@ hr.greenline {
     
 }
 
+/* .espaçamento{
+
+    padding-bottom: 0%;
+
+} */
+
 #progressbar {
     background-color: #eeeff2;
     border-radius: 13px;
@@ -181,6 +187,46 @@ hr.greenline {
     height: 10px;
     border-radius: 10px;
   }
+
+  #progressbar>.bar2 {
+    background-color: #00a78e;
+    width: 75%;
+    /* Adjust with JavaScript */
+    height: 10px;
+    border-radius: 10px;
+  }
+
+  #progressbar>.bar3 {
+    background-color: #00a78e;
+    width: 90%;
+    /* Adjust with JavaScript */
+    height: 10px;
+    border-radius: 10px;
+  }
+
+  #progressbar>.bar4 {
+    background-color: #00a78e;
+    width: 65%;
+    /* Adjust with JavaScript */
+    height: 10px;
+    border-radius: 10px;
+  }
+
+  .titleProjects{
+
+        text-align: center;
+        padding-top: 5%;
+
+  }
+
+  .title_section2{
+
+    font-size: 42px;
+    font-weight: 600;
+
+  }
+
+  
 
   
 

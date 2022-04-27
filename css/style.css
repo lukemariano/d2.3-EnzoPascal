@@ -386,23 +386,102 @@ hr.greenline {
 .container_contatos{
 
   width: 1000px;
-  height: 180px;
+  height: 280px;
   border: 2.5px solid #fff;
   border-radius: 4%;
-  margin-top: 2%;
+  margin-top: 1%;
   margin-bottom: 10%;
   margin-left: 30%;
   font-size: 36px;
-  background-color: #00a78e;
+  background: linear-gradient(to right, #00a78e 0%, #006666 100%);
   box-shadow: 4px 4px 4px 4px #d4d4d4;
+
+ 
 }
 
 .title_contato {
 
   text-align: center;
-  padding-top: 5%;
+  padding-top: 2%;
 
 }
+
+.marilia {
+
+  text-align: center;
+
+}
+
+.image_contact {
+
+  max-width:45px;
+  max-height:45px;
+  padding-right: 1%;
+  padding-top: 1%;
+  width: auto;
+  height: auto;
+  vertical-align: middle;
+
+}
+
+.title_container_contact {
+  
+  font-size: 35px;
+  font-weight: 600;
+  padding-left: 8%;
+  color: #fff;
+  margin-bottom: 0;
+  
+
+}
+
+.padding_line {
+
+  padding-left: 8%;
+  padding-top: 2%;
+
+}
+
+.whiteline {
+
+  border-top: 3px solid #fff;
+  display: inline-block;
+  width: 100px;
+  
+
+  
+
+
+}
+
+.text_container_contact{
+
+  font-size: 16px;
+  color: #fff;
+  line-height: 30px;
+  padding-left: 8%;
+  padding-right: 35%;
+
+
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #333333;
+  color: white;
+}
+
+.text_footer {
+
+  font-size: 36px;
+  font-weight: 400;
+
+}
+
+
+
+
 
   
 

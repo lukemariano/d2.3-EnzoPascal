@@ -156,6 +156,7 @@ li a:hover {
 
     margin-left: 33%;
     margin-right: 33%;
+    margin-bottom: 2%;
     padding-top: 0.2%;
     font-family: "Montserrat", sans-serif;
     line-height: 30px;
@@ -267,6 +268,7 @@ hr.greenline {
   .section_projects{
 
     background-color: #f9f9f9;
+    height: 1200px;
 
 
   }

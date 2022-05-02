@@ -1,3 +1,9 @@
+html {
+
+  scroll-behavior: smooth;
+
+}
+
 body {
 font-family: "Montserrat", sans-serif;
 /* padding: 8px; */
@@ -132,6 +138,7 @@ li a:hover {
 .button:hover, .button:active{
 
   background-color: #00705f;
+  
 
 }
 

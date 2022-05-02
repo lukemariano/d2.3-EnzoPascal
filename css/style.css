@@ -241,7 +241,7 @@ hr.greenline {
   }
   
   #progressbar>div {
-    background-color: #00a78e;
+    background: linear-gradient(to right, #00a78e 18%, #006666 100%);
     width: 85%;
     /* Adjust with JavaScript */
     height: 10px;

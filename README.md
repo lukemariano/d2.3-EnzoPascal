@@ -1,5 +1,5 @@
 # d2.2-EnzoPascal
-A ideia aqui é praticar bastante as habilidades em design.
+## Link para acessar: [Meu desafio](https://lukemariano.github.io/d2.3-EnzoPascal/)
 
 
 <img alt="página home" title="página home" src="./images/home.png" />
